@@ -1,0 +1,47 @@
+2019-04-16 14:13:18,187 INFO o.a.j.u.JMeterUtils: Setting Locale to zh_CN
+2019-04-16 14:13:18,218 INFO o.a.j.JMeter: Loading user properties from: user.properties
+2019-04-16 14:13:18,218 INFO o.a.j.JMeter: Loading system properties from: system.properties
+2019-04-16 14:13:18,224 INFO o.a.j.JMeter: Copyright (c) 1998-2019 The Apache Software Foundation
+2019-04-16 14:13:18,224 INFO o.a.j.JMeter: Version 5.1.1 r1855137
+2019-04-16 14:13:18,225 INFO o.a.j.JMeter: java.version=12
+2019-04-16 14:13:18,225 INFO o.a.j.JMeter: java.vm.name=Java HotSpot(TM) 64-Bit Server VM
+2019-04-16 14:13:18,225 INFO o.a.j.JMeter: os.name=Mac OS X
+2019-04-16 14:13:18,225 INFO o.a.j.JMeter: os.arch=x86_64
+2019-04-16 14:13:18,225 INFO o.a.j.JMeter: os.version=10.13.6
+2019-04-16 14:13:18,225 INFO o.a.j.JMeter: file.encoding=UTF-8
+2019-04-16 14:13:18,225 INFO o.a.j.JMeter: java.awt.headless=null
+2019-04-16 14:13:18,225 INFO o.a.j.JMeter: Max memory     =4294967296
+2019-04-16 14:13:18,226 INFO o.a.j.JMeter: Available Processors =8
+2019-04-16 14:13:18,235 INFO o.a.j.JMeter: Default Locale=中文 (简体，中国)
+2019-04-16 14:13:18,235 INFO o.a.j.JMeter: JMeter  Locale=中文 (中国)
+2019-04-16 14:13:18,236 INFO o.a.j.JMeter: JMeterHome=/Users/wangdongyang/wdy/apache-jmeter-5.1.1
+2019-04-16 14:13:18,236 INFO o.a.j.JMeter: user.dir  =/Users/wangdongyang/wdy/apache-jmeter-5.1.1/bin
+2019-04-16 14:13:18,236 INFO o.a.j.JMeter: PWD       =/Users/wangdongyang/wdy/apache-jmeter-5.1.1/bin
+2019-04-16 14:13:24,303 INFO o.a.j.JMeter: IP: 192.168.12.138 Name: wangdongyangdeMacBook-Pro.local FullName: 192.168.12.138
+2019-04-16 14:13:25,867 INFO o.a.j.g.a.LookAndFeelCommand: Installing Darcula LAF
+2019-04-16 14:13:25,874 INFO o.a.j.g.a.LookAndFeelCommand: Using look and feel: com.apple.laf.AquaLookAndFeel [Darcula]
+2019-04-16 14:13:25,874 INFO o.a.j.JMeter: Setting LAF to: com.apple.laf.AquaLookAndFeel
+2019-04-16 14:13:25,878 INFO o.a.j.JMeter: Loaded icon properties from org/apache/jmeter/images/icon.properties
+2019-04-16 14:13:27,566 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/html is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2019-04-16 14:13:27,567 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xhtml+xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2019-04-16 14:13:27,568 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2019-04-16 14:13:27,568 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2019-04-16 14:13:27,568 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/vnd.wap.wml is org.apache.jmeter.protocol.http.parser.RegexpHTMLParser
+2019-04-16 14:13:27,568 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/css is org.apache.jmeter.protocol.http.parser.CssParser
+2019-04-16 14:13:27,976 INFO o.a.j.e.KeyToolUtils: keytool found at 'keytool'
+2019-04-16 14:13:27,977 INFO o.a.j.p.h.p.ProxyControl: HTTP(S) Test Script Recorder SSL Proxy will use keys that support embedded 3rd party resources in file /Users/wangdongyang/wdy/apache-jmeter-5.1.1/bin/proxyserver.jks
+2019-04-16 14:13:28,206 INFO o.a.j.s.FileServer: Default base='/Users/wangdongyang/wdy/apache-jmeter-5.1.1/bin'
+2019-04-16 14:13:28,557 INFO o.a.j.s.SampleResult: Note: Sample TimeStamps are START times
+2019-04-16 14:13:28,558 INFO o.a.j.s.SampleResult: sampleresult.default.encoding is set to utf-8
+2019-04-16 14:13:28,558 INFO o.a.j.s.SampleResult: sampleresult.useNanoTime=true
+2019-04-16 14:13:28,558 INFO o.a.j.s.SampleResult: sampleresult.nanoThreadSleep=5000
+2019-04-16 14:13:28,583 INFO o.a.j.v.ViewResultsFullVisualizer: Add JavaFX to your Java installation if you want to use renderer: org.apache.jmeter.visualizers.RenderInBrowser
+2019-04-16 14:13:43,026 INFO o.a.j.g.a.Load: Loading file: /Users/wangdongyang/wdy/apache-jmeter-5.1.1/bin/examples/testapi.jmx
+2019-04-16 14:13:43,026 INFO o.a.j.s.FileServer: Set new base='/Users/wangdongyang/wdy/apache-jmeter-5.1.1/bin/examples'
+2019-04-16 14:13:43,168 INFO o.a.j.s.SaveService: Testplan (JMX) version: 2.2. Testlog (JTL) version: 2.2
+2019-04-16 14:13:43,187 INFO o.a.j.s.SaveService: Using SaveService properties version 5.0
+2019-04-16 14:13:43,189 INFO o.a.j.s.SaveService: Using SaveService properties file encoding UTF-8
+2019-04-16 14:13:43,192 INFO o.a.j.s.SaveService: Loading file: /Users/wangdongyang/wdy/apache-jmeter-5.1.1/bin/examples/testapi.jmx
+2019-04-16 14:13:43,220 INFO o.a.j.p.h.c.CookieManager: Settings: Delete null: true Check: true Allow variable: true Save: false Prefix: COOKIE_
+2019-04-16 14:13:43,337 INFO o.a.j.v.ViewResultsFullVisualizer: Add JavaFX to your Java installation if you want to use renderer: org.apache.jmeter.visualizers.RenderInBrowser
+2019-04-16 14:13:43,401 INFO o.a.j.s.FileServer: Set new base='/Users/wangdongyang/wdy/apache-jmeter-5.1.1/bin/examples'
